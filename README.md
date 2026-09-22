@@ -101,28 +101,6 @@
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3 align="center">🍽️ The Captain Restaurant</h3>
-
-<p align="center">
-  Restaurant project focused on creating a modern and engaging web experience.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-512BD4?style=flat-square">
-  <img src="https://img.shields.io/badge/UI%2FUX-68217A?style=flat-square">
-</p>
-
-<p align="center">
-  <a href="https://github.com/S-han8/The-captain-Restaurant">
-    <img src="https://img.shields.io/badge/View%20Project-68217A?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-</td>
-</tr>
-
 <tr>
 <td width="50%" valign="top">
 
