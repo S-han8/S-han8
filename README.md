@@ -238,3 +238,16 @@
 <p align="center">
   ⭐ Feel free to explore my repositories and projects.
 </p>
+
+<hr>
+
+<h2 align="center">🐍 My Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S-han8/S-han8/gh-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-han8/S-han8/gh-pages/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/S-han8/S-han8/gh-pages/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
