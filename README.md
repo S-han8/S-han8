@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**S-han8/S-han8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Mahmoud Mostafa
 
-Here are some ideas to get you started:
+### C# / .NET Developer | AI Enthusiast | Programming Lecturer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/C%23-Developer-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Enthusiast-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+</div>
