@@ -77,8 +77,19 @@
 
 <br>
 
+<hr>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  A selection of projects showcasing my work in Web Development, C#/.NET, Backend Development and UI/UX.
+</p>
+
+<br>
+
 <table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">☎️ Call Center Specialist Portfolio</h3>
@@ -101,7 +112,6 @@
 
 </td>
 
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🏇 DERBY</h3>
@@ -124,6 +134,10 @@
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">👨‍💻 Ziad Tamer Portfolio</h3>
@@ -144,9 +158,7 @@
 </p>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">⚡ Updated Portfolio</h3>
@@ -168,5 +180,6 @@
 </p>
 
 </td>
+
 </tr>
 </table>
