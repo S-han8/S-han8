@@ -11,3 +11,21 @@
 </p>
 
 </div>
+
+<hr>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm a passionate <strong>C# / .NET Developer</strong> interested in
+  <strong>Software Engineering, Artificial Intelligence</strong> and
+  <strong>Problem Solving</strong>.
+</p>
+
+<p align="center">
+  🎯 Building practical projects &amp; real-world solutions<br>
+  💻 Exploring C# &amp; .NET technologies<br>
+  🤖 Interested in AI &amp; Prompt Engineering<br>
+  📚 Sharing programming knowledge with students<br>
+  🚀 Always learning and improving
+</p>
