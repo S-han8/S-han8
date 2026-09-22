@@ -183,3 +183,58 @@
 
 </tr>
 </table>
+
+<hr>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-han8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-han8&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=S-han8&theme=tokyonight&hide_border=true" height="180">
+</p>
+
+<hr>
+
+<h2 align="center">💻 What I'm Working On</h2>
+
+<p align="center">
+  🔹 Building applications with C# and .NET
+</p>
+
+<p align="center">
+  🔹 Developing RESTful APIs with ASP.NET Core
+</p>
+
+<p align="center">
+  🔹 Exploring Artificial Intelligence & Prompt Engineering
+</p>
+
+<p align="center">
+  🔹 Improving Software Engineering & Problem Solving skills
+</p>
+
+<hr>
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/S-han8">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/mahmoud-mostafa-624621238/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <strong>💜 Thanks for visiting my profile!</strong>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects.
+</p>
