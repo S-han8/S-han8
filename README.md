@@ -66,3 +66,129 @@
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white">
 </p>
+
+<hr>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  A selection of projects showcasing my work in Web Development, C#/.NET, Backend Development and UI/UX.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">☎️ Call Center Specialist Portfolio</h3>
+
+<p align="center">
+  Modern and responsive portfolio website built for a Call Center Specialist.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+<p align="center">
+  <a href="https://github.com/S-han8/call-center-specialist-portfolio">
+    <img src="https://img.shields.io/badge/View%20Project-68217A?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🍽️ The Captain Restaurant</h3>
+
+<p align="center">
+  Restaurant project focused on creating a modern and engaging web experience.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-512BD4?style=flat-square">
+  <img src="https://img.shields.io/badge/UI%2FUX-68217A?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://github.com/S-han8/The-captain-Restaurant">
+    <img src="https://img.shields.io/badge/View%20Project-68217A?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏇 DERBY</h3>
+
+<p align="center">
+  ASP.NET Core Web API powering the YallaHagz sports booking platform.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://github.com/DerpyApp/Derby-Backend">
+    <img src="https://img.shields.io/badge/View%20Project-68217A?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">👨‍💻 Ziad Tamer Portfolio</h3>
+
+<p align="center">
+  Personal portfolio website designed to present skills, projects and professional work.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Portfolio-68217A?style=flat-square">
+  <img src="https://img.shields.io/badge/UI%2FUX-512BD4?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://github.com/S-han8/Ziad-Tamer-Portofolio">
+    <img src="https://img.shields.io/badge/View%20Project-68217A?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Updated Portfolio</h3>
+
+<p align="center">
+  High-end responsive personal portfolio focused on Backend Development and the .NET ecosystem.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/UI%2FUX-68217A?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://github.com/S-han8/UpdatedPortofolio">
+    <img src="https://img.shields.io/badge/View%20Project-68217A?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
